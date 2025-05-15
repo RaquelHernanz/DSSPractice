@@ -1,0 +1,44 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="template:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/template_jar</output-path>
+    <root id="archive" name="template.jar">
+      <element id="module-output" name="template" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-model-codegen/10.0.0/drools-model-codegen-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.5.17/logback-core-1.5.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.16.1/commons-codec-1.16.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-drl-extensions/10.0.0/drools-drl-extensions-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-mvel-compiler/10.0.0/drools-mvel-compiler-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jdt/ecj/3.33.0/ecj-3.33.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/kie/kie-api/10.0.0/kie-api-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-io/10.0.0/drools-io-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/kie/kie-memory-compiler/10.0.0/kie-memory-compiler-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-ruleunits-dsl/10.0.0/drools-ruleunits-dsl-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-base/10.0.0/drools-base-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-codegen-common/10.0.0/drools-codegen-common-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-compiler/10.0.0/drools-compiler-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.5.17/logback-classic-1.5.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-ruleunits-engine/10.0.0/drools-ruleunits-engine-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/kie/kie-util-xml/10.0.0/kie-util-xml-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-canonical-model/10.0.0/drools-canonical-model-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-wiring-dynamic/10.0.0/drools-wiring-dynamic-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-mvel-parser/10.0.0/drools-mvel-parser-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-ruleunits-api/10.0.0/drools-ruleunits-api-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.25.8/javaparser-core-3.25.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-util/10.0.0/drools-util-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-model-prototype/10.0.0/drools-model-prototype-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-drl-parser/10.0.0/drools-drl-parser-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-wiring-api/10.0.0/drools-wiring-api-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-wiring-static/10.0.0/drools-wiring-static-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-ecj/10.0.0/drools-ecj-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-ruleunits-impl/10.0.0/drools-ruleunits-impl-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/kie/kie-util-maven-support/10.0.0/kie-util-maven-support-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-drl-ast/10.0.0/drools-drl-ast-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/kie/kie-internal/10.0.0/kie-internal-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-core/10.0.0/drools-core-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-model-compiler/10.0.0/drools-model-compiler-10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/drools/drools-kiesession/10.0.0/drools-kiesession-10.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
